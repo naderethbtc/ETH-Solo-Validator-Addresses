@@ -7,11 +7,11 @@ unique ETH addresses belonging to solo stakers
 
 Eth2 Deposit Contract
 
-0x00000000219ab540356cbb839cbe05303d7705fa
+0x1AA52b5A49FF06273D97649f29d9adAa3F65a1a6
 
 RPL node Deposit contract Address
 
-0xDCD51fc5Cd918e0461B9B7Fb75967fDfD10DAe2f
+0xDfdA9615E3ec39648041763A57680dfB870c9530
 
 **#Solo Validator List**
 
